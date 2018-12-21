@@ -1,0 +1,9 @@
+client_id: '*******-201e-****-b885-58fd85d53349'
+client_secret: '*************6e9a764702b59b3778cd38bd78cc7a6d54fcb1'
+session_id: '******-96a5-4bdd-8a81-43a61198c129'
+pin: 123456
+pin_token: iAoecVU3aGdeq/9pVra1uac+k3WpGP/hddhbfhjjfkmd/6OiDzOD4oeKBn2g+QLuaLpaqpo7LXFDvQmVEQxPANjP5ysA6EyyqbmX/hyHH+1SjWpdswG6UWEVVELLFijcYqb69u+AJKJyFgsiBeag7r3afLJwGY/Ai72Xw=
+private_key: |
+  -----BEGIN RSA PRIVATE KEY-----
+  
+  -----END RSA PRIVATE KEY-----
