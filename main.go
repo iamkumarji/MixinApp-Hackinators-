@@ -16,7 +16,7 @@ import (
 )
 
 // CNBAssetID is the CNB's ID in Mixin Network
-const CNBAssetID = "965e5c6e-434c-3fa9-b780-c50f43cd955c"
+const CNBAssetID = "13215hh4-434c-3fa9-b780-c50f43cd955c"
 
 const defaultResponse = "Hello Welcome To Our Network!"
 
