@@ -24,3 +24,4 @@ Its an MixinBot which uses Alexa Voice recognition interface to transfer Cryptos
 - Run the program ```./mixin-bot```
 
 # Bot Output
+<img src="img/output.jpg" alt="output.jpg">
